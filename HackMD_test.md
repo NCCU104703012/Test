@@ -3,8 +3,7 @@ title: exersise
 tags: exercise, test
 ---
 
-#初次使用HackMD 2020/8/11
-
+# <span class="blue">初次使用HackMD 2020/8/11</span>  
 
 ---
 #引用區塊
@@ -45,3 +44,8 @@ function $initHighlight(block, cls) {
 
 ---
 
+<style>
+.blue {
+  color: purple;
+}
+</style>
